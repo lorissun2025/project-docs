@@ -4,6 +4,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Claude Code](https://img.shields.io/badge/Claude-Code-orange)](https://claude.com/claude-code)
+[![Markdown Lint](https://github.com/lorissun2025/project-docs/actions/workflows/markdown-lint.yml/badge.svg)](https://github.com/lorissun2025/project-docs/actions/workflows/markdown-lint.yml)
+[![Spell Check](https://github.com/lorissun2025/project-docs/actions/workflows/spell-check.yml/badge.svg)](https://github.com/lorissun2025/project-docs/actions/workflows/spell-check.yml)
 
 ## Overview
 
@@ -115,7 +117,11 @@ project-root/
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+- Report bugs via [Issues](https://github.com/lorissun2025/project-docs/issues/new?template=bug_report.md)
+- Request features via [Issues](https://github.com/lorissun2025/project-docs/issues/new?template=feature_request.md)
+- Submit pull requests with your improvements
 
 ## License
 

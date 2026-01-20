@@ -1,0 +1,29 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "SKILL",
+    "MRD",
+    "PRD",
+    "TAM",
+    "SAM",
+    "SOM",
+    "CAGR",
+    "roadmap",
+    "roadmaps",
+    "techstack",
+    "github",
+    "repos",
+    "repo",
+    " claude",
+    "markdown",
+    "markdownlint",
+    "cspell"
+  ],
+  "ignoreWords": [
+    "sunsensen",
+    "lorissun",
+    "anthropic",
+    "VibeAILife"
+  ]
+}
